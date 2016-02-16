@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./epistolaecantua00stubgoog_0007.png"; bbox 0 0 4192 6392; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 310 2340 1673 2638">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 310 2340 1673 2638">
+     <span class='ocr_line' id='line_1_1' title="bbox 310 2340 1673 2493; baseline -0.004 -1"><span class='ocrx_word' id='word_1_1' title='bbox 310 2340 314 2361; x_wconf 77' lang='grc'>’</span> <span class='ocrx_word' id='word_1_2' title='bbox 435 2399 691 2493; x_wconf 72' lang='lat' dir='ltr'><strong>RERUM</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 738 2395 1283 2490; x_wconf 76' lang='lat' dir='ltr'><strong>BRITANNICARUM</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1320 2397 1510 2491; x_wconf 78' lang='lat' dir='ltr'>MEDH</span> <span class='ocrx_word' id='word_1_5' title='bbox 1547 2395 1673 2489; x_wconf 78' lang='lat' dir='ltr'><strong>AEvl</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 878 2526 1277 2638; baseline 0.003 -19"><span class='ocrx_word' id='word_1_6' title='bbox 878 2526 1277 2638; x_wconf 74' lang='lat' dir='ltr'><strong>scRffToREs,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 338 2989 1755 3244">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 338 2989 1755 3244">
+     <span class='ocr_line' id='line_1_3' title="bbox 338 2989 1755 3093; baseline 0.002 -5"><span class='ocrx_word' id='word_1_7' title='bbox 338 2994 687 3090; x_wconf 80' lang='lat' dir='ltr'>CHRONICLES</span> <span class='ocrx_word' id='word_1_8' title='bbox 725 2991 838 3084; x_wconf 80' lang='grc' dir='ltr'><strong>ΛΝΒ</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 871 2989 1188 3084; x_wconf 79' lang='lat' dir='ltr'><strong>MEMORIALS</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1225 2994 1290 3088; x_wconf 82' lang='lat' dir='ltr'><strong>OF</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1324 2996 1501 3091; x_wconf 79' lang='lat' dir='ltr'><strong>GREAT</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1530 2999 1755 3093; x_wconf 77' lang='lat' dir='ltr'><strong>BRITAIN</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 862 3143 1251 3244; baseline 0.005 -2"><span class='ocrx_word' id='word_1_13' title='bbox 862 3143 988 3242; x_wconf 62' lang='lat' dir='ltr'><strong>AND‘</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1010 3149 1251 3244; x_wconf 79' lang='lat' dir='ltr'><strong>IRELAND</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 715 3621 1393 3722">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 715 3621 1393 3722">
+     <span class='ocr_line' id='line_1_5' title="bbox 715 3621 1393 3722; baseline 0.013 -11"><span class='ocrx_word' id='word_1_15' title='bbox 715 3621 847 3713; x_wconf 80' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 892 3622 1393 3722; x_wconf 74' lang='lat' dir='ltr'><strong>MIDDLE-AGES.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2100 6388">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2100 6388">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2100 6388; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 2100 6388; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
